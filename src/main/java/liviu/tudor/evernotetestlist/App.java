@@ -34,6 +34,8 @@ import com.evernote.thrift.TException;
  * <pre>
  *    devtoken=....
  * </pre>
+ *
+ * I am using for this example this note: https://sandbox.evernote.com/shard/s1/sh/fc1e6790-b901-4234-ae70-83294c4d9487/d47178851d453bc014bc6febfe4df036
  */
 public class App {
     /** Change this to EvernoteService.PRODUCTION for live. */
